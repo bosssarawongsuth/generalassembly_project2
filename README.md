@@ -1,9 +1,9 @@
 # GA Project 2 - Ames Housing Data and Kaggle Challenge
 ## Jetnipat Sarawongsuth 
-Please Note: The project consists of 2 Jupyter Notebook files. 
+Please Note: The project consists of 2 Jupyter Notebook files:
 - Project 2 - Ames Housing Data and Kaggle Challenge (MAIN FILE)
 - Project 2 - Appendix (ADDITIONAL MODELS)
-- 
+
 *The Project 2 - Ames Housing Data and Kaggle Challenge (MAIN FILE) should be used for marking.*
 ### Problem Statement
 
