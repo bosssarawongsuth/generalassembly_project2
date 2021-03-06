@@ -10,8 +10,8 @@ The study and the models created from this model could potentially be used by re
 
 The project contains 2 usable datasets:
 
-- [train.csv]('./datasets/train.csv') - 2051 rows, 81 columns
-- [test.csv]('./datasets/train.csv') - 879 rows, 80 columns
+- [train.csv]('/datasets/train.csv') - 2051 rows, 81 columns
+- [test.csv]('/datasets/train.csv') - 879 rows, 80 columns
 
 The datasets contain categorical and numerical features for houses that were sold in Ames, Iowa between 2006 and 2010.
 
