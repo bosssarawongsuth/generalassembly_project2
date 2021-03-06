@@ -1,5 +1,8 @@
 # GA Project 2 - Ames Housing Data and Kaggle Challenge
 ## Jetnipat Sarawongsuth 
+Please Note: The project consists of 2 Jupyter Notebook files. 
+- Project 2 - Ames Housing Data and Kaggle Challenge (MAIN FILE)
+- Project 2 - Appendix (ADDITIONAL MODELS)
 ### Problem Statement
 
 This project comprises of the exploration of the exploration of the Housing Prices and the different features of the houses sold in Ames, Iowa. This will explore some important features that affect the sale price of the houses. Additionally, we will also be creating several machine learning models that can be used to predict the sale prices of the houses in Ames, Iowa based on the different features of the house. The models that we are comparing will include OLS Regression (no penalties) and Elastic Net (L1/L2 Penalty) to see how they affect the predictions we get.
