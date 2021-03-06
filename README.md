@@ -42,6 +42,10 @@ In conclusion, we have learnt is that the distribution of the prices overall are
 
 The study has also identified the of the interesting features that real estate/development firms should be focusing on in order to increase the values of the houses. Our best model (Model 4), has given us the insight of the importance of the size of the living area when it comes to house pricing. In fact, an incrase of 1 square feet of the living area (above ground) would increase the sale price by 19505 USD. Other factors include the overall quality of the house (Overall Qual) and the quality of the kitchen. Some of the features that were shown to have moderate negative correaltion with the sale price are Year Built and Year Remod/Add, -0.57 and -0.55 respectively. Model 4 also provide us with some insights confirming this. An increase one year to the age of the house results in a reduction of 6871 USD from the sale price, while an increase of one year since last house remodel/addition decreases the price by 1702 USD. This means that to incrase the value of the house before sale, it should either be relatively newly built or it should be modified/remodelled recently.
 
+Finally, real estate firms should be able to use Model 4 to give a rough guideline on the sale prices for new properties entering the market. Since the Model has around 24000 RMSE, it means the errors in the prediction could be +/- 24000 on average. The model could additionally be used on existing properties in the market to give insights into why some properties remain unsold. This could be because the sale price is too high (very far from Model 4's prediction level) or it could be needing some refits, for instance. 
+
+
+
 
 
 
