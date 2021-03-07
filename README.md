@@ -40,6 +40,9 @@ Model 4's R2 value for both the training dataset and cross validation are not to
 
 Evidently, despite the fact that it scored worse on training data RMSE than Model 2 and 3, it performed the best on unseen data, both from cross valudation and on Kaggle. The reduction in performance for the training and cross val/Kaggle does indicate an overfit - high variance. It is acceptable (from ~21000 for training to ~25000 cross val/Kaggle). The bias is also the lowest amongst the models on unseen data.
 
+#### Limitations
+Although Model 4 can be used to predict sale price satisfactorily with error of +/-25000 on average, it should be noted that there are many other factors that can influence the sale price of properties. The current model uses features directly related to the houses themselves such as overall quality, size, shape and more. It does not use features such as the unemployment rate, inflation rate and the state of the economy to take into account the house prices. These additional features no doubt has an impact on how much houses are sold for. Future models could take into account these factors which may help improve the quality of the predictions.
+
 
 ### Conclusion
 
