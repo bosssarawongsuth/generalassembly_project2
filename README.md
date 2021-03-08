@@ -29,7 +29,7 @@ The data dictionary can be found [here](http://jse.amstat.org/v19n3/decock/DataD
 |         | Training R2 | Cross Val R2 | Training RMSE | Cross Val RMSE | Kaggle Private RMSE |
 |---------|-------------|--------------|---------------|----------------|---------------------|
 | Model 1 | 0.922       | 0.893        | 22180         | 25738          | 27713               |
-| Model 2 | 0.951       | -2.214       | 17428         |$5×10^{15}$     |N/A                  |
+| Model 2 | 0.951       | -2.214       | 17428         |5×10^{15}     |N/A                  |
 | Model 3 | 0.939       | 0.902        | 19514         | 24505          | 27505               |
 | Model 4 | 0.930       | 0.905        | 20921         | 24251          | 25412               |
 
